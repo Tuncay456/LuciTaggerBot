@@ -1,7 +1,7 @@
 {
-  "name": "Frozen Tagger Bot",
+  "name": "Xtagrr_bot",
   "logo":"https://telegra.ph/file/133b9125da464d1db6fca.jpg",
-  "description": "Frozen Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "description": "Xtagrr_bot ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
   "env": {
     "TOKEN": {
       "description": "@botfather Vasitesi ile Ala Bilersen(Gerekli)",
@@ -17,6 +17,6 @@
     }
   },
   "buildpacks": [{
-    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    "url": "https://github.com/Tuncay456/LuciTaggerBot/blob/main/app.json"
   }]
 }
