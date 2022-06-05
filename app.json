@@ -17,6 +17,6 @@
     }
   },
   "buildpacks": [{
-    "url": "https://github.com/Tuncay456/LuciTaggerBot/blob/main/app.json"
+    "url": "https://github.com/Tuncay456/LuciTaggerBot"
   }]
 }
