@@ -27,7 +27,7 @@ async def start(event):
   await event.reply("**⛄ DaltonlarTaggerBot**\n ile Grubunuzdakı Nerdeyse Tüm Üyelere Etiket Ata bilirim \nKomutlar için =======> /help yazın**",
                     buttons=(
                    
-		      [Button.url('Beni Gruba Ekle ➕', 'https://t.me/+0kf_3zSzsCszZWJk?startgroup=a')],
+		      [Button.url('Beni Gruba Ekle ➕', 'https://t.me/lucitaggerbot?startgroup=a')],
                       [Button.url('Support🛠', 'https://t.me/nevarevladim')],
                       [Button.url('Resmi Kanal📣', 'https://t.me/+0kf_3zSzsCszZWJk')],
 		      [Button.url('Developer👨🏻‍💻', 'https://t.me/nevarevladim')],
